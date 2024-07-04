@@ -1,0 +1,2 @@
+{"test_img_r1": 40.75169932027189, "test_img_r5": 78.16473410635746, "test_img_r10": 85.68172730907636, "test_img_r_mean": 68.1993869119019, "test_false_rate": 39.972011195521794}
+{"test_txt_r1": 63.72, "test_txt_r5": 91.72, "test_txt_r10": 95.72, "test_txt_r_mean": 83.72, "test_false_rate": 24.78}
